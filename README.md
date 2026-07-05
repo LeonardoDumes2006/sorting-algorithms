@@ -1,2 +1,1 @@
-# sorting-algorithms add README.md
-# sorting-algorithms
+# Algoritmos de Ordenação
